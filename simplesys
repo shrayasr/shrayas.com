@@ -1,0 +1,17 @@
+#!/bin/bash
+
+set -eu
+
+echo "installing tmux conf"
+curl -s -L shrayas.com/simpletmuxconf > ~/.tmux.conf
+
+echo "installing vimrc"
+curl -s -L shrayas.com/simplevimrc > ~/.vimrc
+
+echo "installing aliases"
+curl -s -L shrayas.com/simplealiases > ~/.bash_aliases
+
+echo "installing psqlrc"
+curl -s -L shrayas.com/simplepsqlrc > ~/.psqlrc
+
+echo "DONE DONE"

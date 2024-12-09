@@ -1,0 +1,11 @@
+alias ..="cd .."
+alias rm="rm -i"
+alias +x="chmod +x"
+
+alias t="tmux new -s "
+alias ta="tmux a -t "
+alias tl="tmux ls"
+
+alias pong="ping -c 3 www.google.com"
+
+alias chmodbits="stat -c %a"

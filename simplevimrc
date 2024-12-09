@@ -1,0 +1,29 @@
+set gdefault
+set nowrap
+
+set backspace=indent,eol,start
+
+set smartcase
+set ignorecase
+
+set hlsearch
+set incsearch
+
+syntax on
+
+set ai
+set si
+
+set nu
+
+set background=dark
+
+nnoremap ; :
+
+nnoremap j gj
+nnoremap k gk
+
+nnoremap <esc><esc> :nohlsearch<cr>
+
+nnoremap 0 ^
+nnoremap Y y$

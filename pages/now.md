@@ -14,7 +14,6 @@ Last updated on 2024-12-30T20:52 (Asia/Kolkata)
 - Taking a break from my running because of some health issues now.
 - Excited about joining the [GCPP - TP](https://school.takshashila.org.in/gcpp-technology-policy) course from Takshashila in the January cohort. This is the first time I will be "studying" after an entire decade. 
 
-## Reading
+## Links
 
-- Missing in action - Pranay & Raghu
-- Reservations - Anand
+- [Currently Reading](https://www.goodreads.com/user/show/18070408-shrayas)
